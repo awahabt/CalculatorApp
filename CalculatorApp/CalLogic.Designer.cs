@@ -264,10 +264,10 @@
             // txtDisplay
             // 
             this.txtDisplay.Font = new System.Drawing.Font("Calibri", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtDisplay.Location = new System.Drawing.Point(29, 59);
+            this.txtDisplay.Location = new System.Drawing.Point(29, 17);
             this.txtDisplay.Multiline = true;
             this.txtDisplay.Name = "txtDisplay";
-            this.txtDisplay.Size = new System.Drawing.Size(318, 42);
+            this.txtDisplay.Size = new System.Drawing.Size(318, 84);
             this.txtDisplay.TabIndex = 19;
             // 
             // calText
@@ -276,7 +276,7 @@
             this.calText.Font = new System.Drawing.Font("Calibri", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.calText.Location = new System.Drawing.Point(22, 17);
             this.calText.Name = "calText";
-            this.calText.Size = new System.Drawing.Size(0, 39);
+            this.calText.Size = new System.Drawing.Size(0, 44);
             this.calText.TabIndex = 20;
             // 
             // Calculator
